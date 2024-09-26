@@ -20,7 +20,7 @@ MediaPipe: Detecção de mãos em tempo real.
 PyCaw: Controle do volume do sistema no Windows.
 ctypes e comtypes: Manipulação de interfaces de áudio no Windows.
 
-Instalação
+Instalação:
 Pré-requisitos
 Python 3.10 ou superior
 Biblioteca de gerenciamento de ambientes virtuais (venv ou virtualenv)
